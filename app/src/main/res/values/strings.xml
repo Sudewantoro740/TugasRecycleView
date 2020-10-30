@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TugasRecycleView</string>
+    <string name="harga">Harga</string>
+    <string name="datamakanan">DataMakanan</string>
+    <string name="todo">TODO</string>
+</resources>
